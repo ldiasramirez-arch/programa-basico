@@ -1,0 +1,14 @@
+C:\Users\LUIS\Desktop\trabajos finales\bin\Debug\net10.0\trabajos finales.exe
+C:\Users\LUIS\Desktop\trabajos finales\bin\Debug\net10.0\trabajos finales.deps.json
+C:\Users\LUIS\Desktop\trabajos finales\bin\Debug\net10.0\trabajos finales.runtimeconfig.json
+C:\Users\LUIS\Desktop\trabajos finales\bin\Debug\net10.0\trabajos finales.dll
+C:\Users\LUIS\Desktop\trabajos finales\bin\Debug\net10.0\trabajos finales.pdb
+C:\Users\LUIS\Desktop\trabajos finales\obj\Debug\net10.0\trabajos finales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUIS\Desktop\trabajos finales\obj\Debug\net10.0\trabajos finales.AssemblyInfoInputs.cache
+C:\Users\LUIS\Desktop\trabajos finales\obj\Debug\net10.0\trabajos finales.AssemblyInfo.cs
+C:\Users\LUIS\Desktop\trabajos finales\obj\Debug\net10.0\trabajos finales.csproj.CoreCompileInputs.cache
+C:\Users\LUIS\Desktop\trabajos finales\obj\Debug\net10.0\trabajos finales.dll
+C:\Users\LUIS\Desktop\trabajos finales\obj\Debug\net10.0\refint\trabajos finales.dll
+C:\Users\LUIS\Desktop\trabajos finales\obj\Debug\net10.0\trabajos finales.pdb
+C:\Users\LUIS\Desktop\trabajos finales\obj\Debug\net10.0\trabajos finales.genruntimeconfig.cache
+C:\Users\LUIS\Desktop\trabajos finales\obj\Debug\net10.0\ref\trabajos finales.dll
